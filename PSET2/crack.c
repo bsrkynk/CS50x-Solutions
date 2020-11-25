@@ -80,11 +80,4 @@ int main(int argc, string argv[])
     
 }
 
-/*
-    ORNEK SİFRELER:
-    ATAM : 50K6v0paBlyx2
-    LOL :  50cI2vYkF0YU2
-    CRACK : 502xg9uaUHtkI (kodun bu ornegi bulması biraz uzun sürüyor. yaklaşık 10-15 dk)
-    AT : 50fXBl4nfF3Jc
-    LAF : 509Ho.lzyjgok1477
-*/
+
